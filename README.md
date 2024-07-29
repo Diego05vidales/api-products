@@ -2,7 +2,7 @@
 crud and api products
 
 ## Instrucciones
-
+-- registro inicial ya dentro se puede volver a agregar  eliminar o modificar http://127.0.0.1:8000/
 - Descargar el proyecto y agregarlo al localhost.
 - Instalar xamp, composer e instalar node js
 - actualizar el proyecto para descargar vendor y comporser
