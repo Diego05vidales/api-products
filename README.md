@@ -5,7 +5,8 @@ crud and api products
 
 - Descargar el proyecto y agregarlo al localhost.
 - Instalar xamp, composer e instalar node js
-- actualizar el proyecto para descargar vendor y comporser 
+- actualizar el proyecto para descargar vendor y comporser
+- correr las migraciones para generar las tablas
 - navegar a la carpeta principal y ejecutar php artisan serve
 - una ves ejecutado dar clic en el boton de registra
 - llenar el formularioe iniciar sesion
